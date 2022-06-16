@@ -1,0 +1,44 @@
+
+---Upload files---
+Redux file was not uploaded. Error: Specified file failed upload test.
+
+---Upload files---
+The import files were successfully uploaded!
+Initial max execution time = 120
+Files info:
+Site URL = https://themehunk.com/wp-themes/portfoliolite-dark
+Data file = /home/themehunk123/public_html/wp-themes/wp-content/uploads/sites/139/2020/08/portfoliolite.WordPress.2020-08-22.xml
+Widget file = /home/themehunk123/public_html/wp-themes/wp-content/uploads/sites/139/2020/08/themehunk.com-wp-themes-portfoliolite-widgets.wie
+Customizer file = /home/themehunk123/public_html/wp-themes/wp-content/uploads/sites/139/2020/08/portfoliolite-export.dat
+Redux files:
+not defined!
+
+---Importing widgets---
+Primary Sidebar : 
+
+Search - No Title - Widget already exists
+woocommerce_products - Products - Site does not support widget
+Recent Posts - No Title - Imported
+
+First Footer Widget Area : 
+
+Custom HTML - About Us - Imported
+
+Second Footer Widget Area : 
+
+Navigation Menu - Useful Links - Imported
+
+Third Footer Widget Area : 
+
+Custom HTML - Address - Imported
+
+portfolio-team-widget : Sidebar does not exist in theme (moving widget to Inactive)
+
+team-widget - Harry - Site does not support widget
+team-widget - JULIA - Site does not support widget
+team-widget - David - Site does not support widget
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!

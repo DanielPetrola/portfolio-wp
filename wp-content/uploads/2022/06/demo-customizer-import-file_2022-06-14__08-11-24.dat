@@ -1,0 +1,39 @@
+a:4:{s:8:"template";s:13:"portfoliolite";s:4:"mods";a:70:{i:0;b:0;s:18:"nav_menu_locations";a:1:{s:9:"home-menu";i:8;}s:18:"custom_css_post_id";i:241;s:14:"resume_heading";s:31:"Check Out my<mark>RESUME</mark>";s:18:"resume_button_link";s:97:"https://wpthemes.themehunk.com/portfolioline-pro/wp-content/uploads/sites/28/2016/09/DEMO-PDF.pdf";s:19:"resume_button_link2";s:97:"https://wpthemes.themehunk.com/portfolioline-pro/wp-content/uploads/sites/28/2016/09/DEMO-PDF.pdf";s:18:"first_slider_image";s:101:"https://wpthemes.themehunk.com/portfoliolite-dark/wp-content/uploads/sites/139/2020/08/slider-new.jpg";s:11:"ovrly_color";s:18:"rgba(238,238,34,0)";s:16:"parallax_heading";s:16:"Hi, I am WP Dev.";s:23:"parallax_subheading_one";s:29:"I know WP theme development..";s:23:"parallax_subheading_two";s:30:"I know WP plugin development..";s:21:"parallax_button_text2";s:9:"Know More";s:16:"our_port_heading";s:12:"My Portfolio";s:16:"our_team_heading";s:8:"Our Team";s:10:"blog_head_";s:11:"Latest News";s:15:"section_sorting";a:7:{i:0;s:17:"section_portfolio";i:1;s:14:"section_resume";i:2;s:12:"section_team";i:3;s:19:"section_testimonial";i:4;s:12:"section_blog";i:5;s:12:"section_news";i:6;s:15:"section_pricing";}s:17:"section_animation";s:2:"on";s:13:"title_disable";b:0;s:25:"portfoliolite_theme_color";s:7:"#678e1d";s:24:"service_img_overly_color";s:7:"#1f1f1f";s:18:"ribbonbtm_bg_image";s:97:"https://wpthemes.themehunk.com/portfoliolite-dark/wp-content/uploads/sites/139/2020/08/ribbon.jpg";s:26:"ribbonbtm_img_overly_color";s:16:"rgba(0,0,0,0.72)";s:16:"ribbon_txt_color";s:7:"#999999";s:17:"hb_heading_bottom";s:60:"Auctor elit sed vulputate mi sit amet mauris commodo quis.  ";s:21:"hb_button_text_bottom";s:14:"CALL TO ACTION";s:22:"portfolio_overly_color";s:7:"#111111";s:19:"our_port_subheading";s:21:"Sub heading goes here";s:17:"our_port_category";a:4:{i:0;s:6:"design";i:1;s:8:"graphics";i:2;s:5:"music";i:3;s:10:"technology";}s:23:"our_port_default_images";i:4;s:19:"our_team_subheading";s:21:"Sub heading goes here";s:20:"testimonial_bg_image";s:98:"https://wpthemes.themehunk.com/portfoliolite-dark/wp-content/uploads/sites/139/2020/08/testi-1.jpg";s:26:"our_woocommerce_subheading";s:23:"Sub heading goes here
+
+";s:28:"woocommerce_img_overly_color";s:7:"#1f1f1f";s:22:"our_service_subheading";s:21:"Sub Heading Goes Here";s:13:"news_bg_image";s:96:"https://wpthemes.themehunk.com/portfoliolite-dark/wp-content/uploads/sites/139/2020/08/sub-1.jpg";s:21:"news_img_overly_color";s:16:"rgba(0,0,0,0.88)";s:10:"blog_desc_";s:20:"Subheading goes here";s:11:"slider_cate";s:1:"0";s:12:"slider_count";s:1:"3";s:26:"portfoliolite_cnt_bg_image";s:102:"https://wpthemes.themehunk.com/portfoliolite-dark/wp-content/uploads/sites/139/2020/08/contact-1-1.jpg";s:34:"portfoliolite_cnt_img_overly_color";s:21:"rgba(108,142,45,0.92)";s:12:"header_image";s:97:"https://wpthemes.themehunk.com/portfoliolite-dark/wp-content/uploads/sites/139/2020/08/slide1.jpg";s:17:"header_image_data";O:8:"stdClass":5:{s:13:"attachment_id";i:230;s:3:"url";s:97:"https://wpthemes.themehunk.com/portfoliolite-dark/wp-content/uploads/sites/139/2020/08/slide1.jpg";s:13:"thumbnail_url";s:105:"https://wpthemes.themehunk.com/portfoliolite-dark/wp-content/uploads/sites/139/2020/08/slide1-150x150.jpg";s:6:"height";i:854;s:5:"width";i:1280;}s:11:"custom_logo";i:320;s:19:"parallax_head_color";s:7:"#adadad";s:20:"parallax_typer_color";s:7:"#b2b2b2";s:25:"portfoliolite_header_hide";b:1;s:21:"service_heading_color";s:7:"#999999";s:25:"service_description_color";s:7:"#999999";s:16:"portfo_txt_color";s:7:"#999999";s:19:"portfo_subtxt_color";s:7:"#999999";s:21:"portfo_category_color";s:7:"#999999";s:16:"background_color";s:6:"1f1f1f";s:21:"team_img_overly_color";s:7:"#1f1f1f";s:14:"team_txt_color";s:7:"#999999";s:17:"team_subtxt_color";s:7:"#999999";s:28:"testimonial_img_overly_color";s:21:"rgba(103,142,29,0.93)";s:25:"woocommerce_heading_color";s:7:"#999999";s:29:"woocommerce_description_color";s:7:"#999999";s:21:"blog_img_overly_color";s:7:"#111111";s:14:"blog_txt_color";s:7:"#999999";s:17:"blog_subtxt_color";s:7:"#999999";s:29:"portfoliolite_footer_bg_color";s:7:"#1f1f1f";s:30:"portfoliolite_footer_txt_color";s:7:"#999999";s:33:"portfoliolite_footer_copybg_color";s:7:"#111111";s:22:"portfoliolite_mob_txt_";s:10:"1800090098";s:22:"portfoliolite_add_txt_";s:22:"Split villa califorina";s:22:"portfoliolite_eml_txt_";s:14:"Info@gmail.com";s:28:"portfoliolite_cnt_icon_color";s:7:"#ffffff";s:33:"portfoliolite_cnt_icon_text_color";s:7:"#ffffff";}s:7:"options";a:21:{s:22:"woocommerce_demo_store";s:2:"no";s:29:"woocommerce_demo_store_notice";s:79:"This is a demo store for testing purposes &mdash; no orders shall be fulfilled.";s:29:"woocommerce_shop_page_display";s:0:"";s:36:"woocommerce_category_archive_display";s:0:"";s:35:"woocommerce_default_catalog_orderby";s:10:"menu_order";s:27:"woocommerce_catalog_columns";s:1:"4";s:24:"woocommerce_catalog_rows";s:1:"4";s:30:"woocommerce_single_image_width";s:3:"600";s:30:"woocommerce_thumbnail_cropping";s:3:"1:1";s:43:"woocommerce_thumbnail_cropping_custom_width";s:1:"4";s:44:"woocommerce_thumbnail_cropping_custom_height";s:1:"3";s:34:"woocommerce_checkout_company_field";s:8:"optional";s:36:"woocommerce_checkout_address_2_field";s:8:"optional";s:32:"woocommerce_checkout_phone_field";s:8:"required";s:46:"woocommerce_checkout_highlight_required_fields";s:3:"yes";s:55:"woocommerce_checkout_terms_and_conditions_checkbox_text";s:44:"I have read and agree to the website [terms]";s:40:"woocommerce_checkout_privacy_policy_text";s:161:"Your personal data will be used to process your order, support your experience throughout this website, and for other purposes described in our [privacy_policy].";s:26:"wp_page_for_privacy_policy";s:0:"";s:25:"woocommerce_terms_page_id";s:0:"";s:9:"site_icon";s:1:"0";s:23:"nav_menus_created_posts";a:0:{}}s:6:"wp_css";s:1008:".thunk-service-post {
+    background: #111;
+}
+.thunk-service-title, .thunk-service-description{
+color:#999;
+}
+.woocommerce ul.products li.product a img, .portfolio-desc button, .portfolio-image, figure.team-efct img, figure.blog-efct, #price-package .package, .portfolio-widget-content{
+box-shadow: 0 4px 6px -12px rgba(0, 0, 0, 0), 0 4px 7px 0 #000, 0 0px 3px -5px #000!important;
+}
+.header.shrink{
+    background: #111;
+}
+.portfolio-menu>li>a{
+color:#999!important;
+}
+.woocommerce ul.products li.product .woocommerce-loop-category__title, .woocommerce ul.products li.product .woocommerce-loop-product__title, .woocommerce ul.products li.product h3{
+	color:#999;
+}
+.portfolio-widget-content {
+    background: #111;
+}
+.footer .widget-title {
+    background-color: #1f1f1f;
+color:#999;
+}
+.footer{
+color:#999;
+}
+.woocommerce div.product .product_title, .woocommerce-product-details__short-description, .single-product h2, .entry-content p{
+    color: #999;
+}
+p {
+    color: #999;
+}
+.test-cont p{
+	color:#fff;
+}";}

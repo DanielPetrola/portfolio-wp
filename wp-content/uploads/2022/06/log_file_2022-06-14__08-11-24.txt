@@ -1,0 +1,49 @@
+
+---Downloaded files---
+The import files for: Portfoliolite Dark were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/portfolio-wp-0.1
+Data file = C:\xampp\htdocs\Portfolio-WP-0.1/wp-content/uploads/2022/06/demo-content-import-file_2022-06-14__08-11-24.xml
+Widget file = C:\xampp\htdocs\Portfolio-WP-0.1/wp-content/uploads/2022/06/demo-widgets-import-file_2022-06-14__08-11-24.json
+Customizer file = C:\xampp\htdocs\Portfolio-WP-0.1/wp-content/uploads/2022/06/demo-customizer-import-file_2022-06-14__08-11-24.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Primary Sidebar : 
+
+Search - No Title - Imported
+Recent Posts - No Title - Imported
+Recent Comments - No Title - Imported
+Recent Posts - No Title - Imported
+
+Secondary Sidebar : 
+
+Archives - No Title - Imported
+Categories - No Title - Imported
+Meta - No Title - Imported
+
+First Footer Widget Area : 
+
+Custom HTML - About Us - Imported
+
+Second Footer Widget Area : 
+
+Navigation Menu - Useful Links - Imported
+
+Third Footer Widget Area : 
+
+Custom HTML - Address - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+
